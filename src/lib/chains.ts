@@ -1,25 +1,25 @@
 // src/lib/chains.ts
 export const iotaTestnet = {
-  id: 1075,
-  name: 'IOTA EVM Testnet',
-  network: 'iota-testnet',
+  id: 97,
+  name: "BNB Smart Chain Testnet",
+  network: "bsc-testnet",
   nativeCurrency: {
     decimals: 18,
-    name: 'IOTA',
-    symbol: 'MIOTA',
+    name: "BNB",
+    symbol: "tBNB",
   },
   rpcUrls: {
     default: {
-      http: ['https://json-rpc.evm.testnet.iotaledger.net'],
+      http: ["https://bsc-testnet-rpc.publicnode.com"],
     },
     public: {
-      http: ['https://json-rpc.evm.testnet.iotaledger.net'],
+      http: ["https://bsc-testnet-rpc.publicnode.com"],
     },
   },
   blockExplorers: {
     default: {
-      name: 'Explorer',
-      url: 'https://explorer.evm.testnet.iotaledger.net',
+      name: "Explorer",
+      url: "https://explorer.evm.testnet.shimmer.network",
     },
   },
 };
