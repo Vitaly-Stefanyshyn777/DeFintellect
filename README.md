@@ -124,9 +124,9 @@ The smart contract for portfolio allocation has been successfully deployed on th
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Contact
+<!-- ## Contact
 
-For questions, feedback, or contributions, please open an issue or contact the maintainer via [GitHub Issues](https://github.com/johnnyduo/AToIoTA/issues).
+For questions, feedback, or contributions, please open an issue or contact the maintainer via [GitHub Issues](https://github.com/johnnyduo/AToIoTA/issues). -->
 
 ## Demo
 
