@@ -130,7 +130,7 @@ For questions, feedback, or contributions, please open an issue or contact the m
 
 ## Demo
 
-Try AToIoTA: [https://atoiota.xyz](https://atoiota.xyz)
+Try AToIoTA: [https://de-fintellect.vercel.app/](https://de-fintellect.vercel.app/)
 
 ## Screenshots
 
