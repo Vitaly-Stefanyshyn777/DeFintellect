@@ -51,7 +51,7 @@ AToIoTA’s AI system uses a multi-layered approach:
 
 ```sh
 # Clone the repository
-git clone https://github.com/johnnyduo/AToIoTA.git
+gh repo clone Vitaly-Stefanyshyn777/DeFintellect
 cd atoiota
 
 # Install dependencies
